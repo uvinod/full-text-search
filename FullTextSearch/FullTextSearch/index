@@ -1,0 +1,37 @@
+{
+  "once": {
+    "sample.txt": 2,
+    "test.txt": 1
+  },
+  "jerry": {
+    "sample.txt": 2,
+    "test.txt": 1
+  },
+  "and": {
+    "sample.txt": 2,
+    "test.txt": 1
+  },
+  "16": {
+    "sample.txt": 2,
+    "test.txt": 1
+  },
+  "midgets": {
+    "sample.txt": 2,
+    "test.txt": 1
+  },
+  "set": {
+    "sample.txt": 2
+  },
+  "off": {
+    "sample.txt": 2
+  },
+  "on": {
+    "sample.txt": 2
+  },
+  "a": {
+    "sample.txt": 2
+  },
+  "journey": {
+    "sample.txt": 2
+  }
+}
